@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./histoiredelague01cailgoog_0552.png"; bbox 0 0 2270 4036; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 5 1093 1061 1328">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 5 1079 1061 1328">
+     <span class='ocr_line' id='line_1_1' title="bbox 5 1093 1061 1328; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 5 1155 18 1278; x_wconf 76' lang='lat'>1</span> <span class='ocrx_word' id='word_1_2' title='bbox 283 1093 802 1328; x_wconf 67' lang='lat' dir='ltr'>fflsTofflss..</span> <span class='ocrx_word' id='word_1_3' title='bbox 1057 1115 1061 1120; x_wconf 68' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 464 1481 609 1548">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 464 1481 609 1548">
+     <span class='ocr_line' id='line_1_2' title="bbox 464 1481 609 1548; baseline 0.021 -3"><span class='ocrx_word' id='word_1_4' title='bbox 464 1481 527 1545; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 547 1481 609 1548; x_wconf 70' lang='lat' dir='ltr'><strong>LA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 10 1685 953 1829">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 10 1685 953 1829">
+     <span class='ocr_line' id='line_1_3' title="bbox 10 1685 953 1829; baseline -0.006 -19"><span class='ocrx_word' id='word_1_6' title='bbox 10 1799 15 1810; x_wconf 89' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 128 1685 458 1806; x_wconf 85' lang='lat' dir='ltr'>GUERRE</span> <span class='ocrx_word' id='word_1_8' title='bbox 501 1689 605 1806; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 655 1685 903 1806; x_wconf 85' lang='lat' dir='ltr'>TROIE</span> <span class='ocrx_word' id='word_1_10' title='bbox 924 1770 953 1829; x_wconf 61' lang='lat' dir='ltr'><em>r</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 5 1933 925 2028">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 5 1933 925 2028">
+     <span class='ocr_line' id='line_1_4' title="bbox 5 1933 925 2028; baseline -0.007 -2"><span class='ocrx_word' id='word_1_11' title='bbox 5 1939 6 1956; x_wconf 67' lang='lat'><em>²</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 162 1933 925 2028; x_wconf 50' lang='lat' dir='ltr'><strong>Ammmmmmpnflvem„</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1140 4036">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1140 4036">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1140 4036; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1140 4036; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

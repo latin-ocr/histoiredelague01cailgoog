@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./histoiredelague01cailgoog_0562.png"; bbox 0 0 2270 4036; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 350 275 1110 386">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 350 275 1110 386">
+     <span class='ocr_line' id='line_1_1' title="bbox 350 275 1110 386; baseline 0.004 -34"><span class='ocrx_word' id='word_1_1' title='bbox 350 281 721 353; x_wconf 63' lang='lat' dir='ltr'><strong>nrssmcmnm</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 873 288 944 383; x_wconf 75' lang='lat'><strong>¹49</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1066 275 1110 386; x_wconf 23' lang='lat'><strong>&#39;-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 123 393 944 851">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 123 393 944 851">
+     <span class='ocr_line' id='line_1_2' title="bbox 123 393 943 519; baseline 0.001 -28"><span class='ocrx_word' id='word_1_4' title='bbox 123 439 243 519; x_wconf 80' lang='lat' dir='ltr'>quum</span> <span class='ocrx_word' id='word_1_5' title='bbox 271 439 340 515; x_wconf 86' lang='lat' dir='ltr'><strong>pro</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 363 393 488 488; x_wconf 46' lang='lat' dir='ltr'>in&#39;sano</span> <span class='ocrx_word' id='word_1_7' title='bbox 518 416 705 494; x_wconf 85' lang='lat' dir='ltr'><strong>Homerus</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 727 413 943 514; x_wconf 77' lang='lat' dir='ltr'><strong>haheretur,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 127 509 943 637; baseline 0.005 -30"><span class='ocrx_word' id='word_1_9' title='bbox 127 531 232 636; x_wconf 87' lang='lat' dir='ltr'>quod</span> <span class='ocrx_word' id='word_1_10' title='bbox 255 530 351 621; x_wconf 58' lang='lat' dir='ltr'>,deos</span> <span class='ocrx_word' id='word_1_11' title='bbox 385 531 694 623; x_wconf 79' lang='lat' dir='ltr'><strong>cumhominibus</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 716 509 943 637; x_wconf 48' lang='lat' dir='ltr'><strong>belligerhssoe</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 127 650 944 755; baseline 0.002 -28"><span class='ocrx_word' id='word_1_13' title='bbox 127 650 944 755; x_wconf 55' lang='lat' dir='ltr'><strong>descripsit.sedhactenusistfflwxcadpouia</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 128 769 495 851; baseline -0.008 -4"><span class='ocrx_word' id='word_1_14' title='bbox 128 769 246 851; x_wconf 76' lang='lat' dir='ltr'><strong>citum</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 257 785 495 851; x_wconf 68' lang='lat' dir='ltr'><strong>revertamur.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1140 4036">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1140 4036">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1140 4036; baseline 0 2"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1140 4036; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
